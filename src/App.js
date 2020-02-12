@@ -89,8 +89,7 @@ class App extends React.Component {
      
           
         /> 
-        {/* Hooking up The TodoList component with a props (items) which is a list of items that is a part of this state   */}
-
+        {
       </div>
     );
   }
